@@ -1,0 +1,24 @@
+section.contact-form{
+    width: 80%;
+    margin: auto;
+    margin-top: 80px;
+}
+section.contact-form form div.top{
+    background-color: #FF6666;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+section.contact-form form div.top p.first{
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+}
+section.contact-form form div.top p.second{
+    text-align: center;
+    color: white;
+    font-size: .9em;
+}
+section.contact-form form button{
+    background-color: #FF6666;
+    color: white;
+}
